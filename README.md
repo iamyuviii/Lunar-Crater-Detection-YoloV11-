@@ -1,5 +1,3 @@
-````bash
-cat << 'EOF' > README.md
 # Lunar Crater Detection Using YOLOv11
 
 ## Project Overview
